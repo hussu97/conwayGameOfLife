@@ -27,4 +27,4 @@ $ cd conwayGameOfLife
 ![Main2](/screenshots/main2.png)
 ***
 ## License
-[GNUv3](https://github.com/hussu97/conwayGameOfLife/blob/develop/LICENSE)
+[GNUv3](https://github.com/hussu97/conwayGameOfLife/blob/master/LICENSE)
